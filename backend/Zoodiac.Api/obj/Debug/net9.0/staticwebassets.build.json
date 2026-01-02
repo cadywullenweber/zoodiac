@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sSVdxZ1BvQwL7W2XtLPMjVEiC3mgCEYBu4OgPYqDTkg=",
+  "Source": "Zoodiac.Api",
+  "BasePath": "_content/Zoodiac.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
